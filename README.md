@@ -1,2 +1,2 @@
 # HackerRank-Problems-
-This contains all problems solved in hackerrank during my college courses. It contains problems from the days I first was introduced to programming. 
+This contains all problems solved in hackerrank during my university semester. It contains problems from I was first introduced to programming. 
