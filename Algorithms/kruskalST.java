@@ -1,5 +1,6 @@
 //Kruskal MST
 //Luis Ramirez
+//Minimum Spanning Tree using ranks and subets 
 import java.io.*;
 import java.math.*;
 import java.security.*;
